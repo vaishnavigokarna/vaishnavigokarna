@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Vaishnavi Gokarna</h1>
 
 <h3 align="center">
-Computer Science Engineering (AI & ML) Student | AI/ML Enthusiast | Full-Stack Developer
+Computer Science Engineering (AI & ML) Student | AI/ML Enthusiast 
 </h3>
 
 <p align="center">
