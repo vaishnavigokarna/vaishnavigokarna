@@ -186,8 +186,6 @@ LLMs • Prompt Engineering • Retrieval-Augmented Generation • NLP • Embed
 - Object-Oriented Programming
 - Database Management Systems
 - Operating Systems
-- REST API Development
-- Relational Database Design
 
 ---
 
